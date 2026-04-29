@@ -1,0 +1,5 @@
+*.txt
+.env
+day?.txt
+!main.txt
+temp/
